@@ -1,0 +1,5 @@
+rootProject.name = 'lesson_1'
+include 'App'
+include 'Common'
+
+
