@@ -1,5 +1,5 @@
 public class Utils {
-    public void parse() {
+    public static void parse() {
         System.out.println("parse");
     }
 }
